@@ -1,0 +1,33 @@
+#im{
+    width: 100%;
+    height: 100%;
+}
+#il{
+    width: 100%;
+    height: 100%;
+}
+#in{
+    width: 100%;
+    height: 100%;
+}
+li{
+    display: inline-block;
+}
+li{
+    margin-left:50px
+}
+li{
+    color: darkblue
+}
+ul{
+    margin-left: 500px
+}
+#ir{
+    width: 5%;
+    height: 5%;
+   }
+#ir{
+    margin-left:8%;
+    margin-top:3%;
+}
+    
